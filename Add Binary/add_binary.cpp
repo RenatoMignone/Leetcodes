@@ -19,7 +19,8 @@ class Solution {
         carry += a[i--] - '0'; // this - '0' is a way to convert from a character to a string
       if (j >= 0)
         carry += b[j--] - '0';
-      ans += carry % 2 + '0';
+    
+      ans += carry % 2 + '0'; // stavolta uso + '0' per portare da un int a un char
       carry /= 2;
     }
 
@@ -32,7 +33,7 @@ int main(){
 
     Solution solution;
 
-    string prima = "11";
+    string prima = "1111";
     string seconda = "1";
 
     cout << solution.addBinary(prima,seconda);
