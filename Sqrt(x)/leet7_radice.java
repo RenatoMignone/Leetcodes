@@ -15,7 +15,7 @@ class leet7_radice {
         }
 
     public static void main(String args[]){
-        int i = 16;
+        int i = 1;
         System.out.println(mySqrt(i));
     }
 }
