@@ -21,7 +21,7 @@ public:
             return list1;
         }
         ListNode* dummy=new ListNode();
-        ListNode*temp=dummy;
+        ListNode* temp=dummy;
         while(list1&&list2)
         {
           if(list1->val<list2->val)
