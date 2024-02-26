@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "leet7_radice",
+            "request": "launch",
+            "mainClass": "leet7_radice",
+            "projectName": "LeetCode_5472ddb0"
+        },
+        {
+            "type": "java",
+            "name": "leet8",
+            "request": "launch",
+            "mainClass": "leet8",
+            "projectName": "LeetCode_5472ddb0"
+        },
+        {
+            "type": "java",
+            "name": "leetcode1_two_sum",
+            "request": "launch",
+            "mainClass": "leetcode1_two_sum",
+            "projectName": "LeetCode_5472ddb0"
+        },
+        {
+            "type": "java",
+            "name": "leetcode2_palindrome",
+            "request": "launch",
+            "mainClass": "leetcode2_palindrome",
+            "projectName": "LeetCode_5472ddb0"
+        },
+        {
+            "type": "java",
+            "name": "leetcode3_roman_integer",
+            "request": "launch",
+            "mainClass": "leetcode3_roman_integer",
+            "projectName": "LeetCode_5472ddb0"
+        },
+        {
+            "type": "java",
+            "name": "leetcode5_valid_parentheses",
+            "request": "launch",
+            "mainClass": "leetcode5_valid_parentheses",
+            "projectName": "LeetCode_5472ddb0"
+        },
+        {
+            "type": "java",
+            "name": "longestPrefix",
+            "request": "launch",
+            "mainClass": "longestPrefix",
+            "projectName": "LeetCode_5472ddb0"
+        }
+    ]
+}
