@@ -1,3 +1,2 @@
 # Leetcodes
-
-Repo where i store my leetcodes
+leet account : https://leetcode.com/Renato_Mignone/
